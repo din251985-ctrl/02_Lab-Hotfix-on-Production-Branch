@@ -3,5 +3,5 @@ function changeGreeting() {
   const message = document.getElementById("message");
 
   greeting.textContent = "Namaste, Dinesh!";
-  message.textContent = "Thanks for visiting. This page is powered by HTML, CSS, and JavaScript.";
+  message.textContent = "Thanks for visiting., CSS, and JavaScript.";
 }
