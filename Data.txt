@@ -1,0 +1,4 @@
+Welcome to our localized documentation portal.
+This site is built to empower residents with clear, accessible resources.
+Languages supported: Marathi, Hindi, English.
+For feedback or contributions, contact the documentation team.
